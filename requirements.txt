@@ -1,0 +1,5 @@
+pandas
+streamlit_drawable_canvas
+pillow
+streamlit_quill
+markdown

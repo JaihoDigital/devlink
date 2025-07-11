@@ -1,5 +1,12 @@
 pandas
 streamlit_drawable_canvas
-pillow
+Pillow
 streamlit_quill
 markdown
+easyocr
+numpy
+pandas
+requests
+fitz
+python-docx
+docx2pdf
